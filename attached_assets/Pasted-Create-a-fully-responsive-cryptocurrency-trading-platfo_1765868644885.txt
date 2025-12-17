@@ -1,0 +1,185 @@
+Create a fully responsive cryptocurrency trading platform website named “Demo” that visually and structurally matches the provided design screenshots.
+
+Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Optional: React (preferred if possible) with functional components
+
+Styling: Modern UI, gradients, soft shadows, rounded cards
+
+Icons: SVG or Lucide/FontAwesome
+
+Charts: Lightweight SVG / mock sparkline charts (no real API needed)
+
+Global Requirements
+
+Pixel-close layout to the screenshots
+
+Clean component-based structure
+
+Smooth hover effects & subtle animations
+
+Fully responsive (desktop, tablet, mobile)
+
+Use mock data only
+
+Professional crypto-exchange look
+
+Pages / Sections to Build
+1. Landing Page (Homepage)
+
+Top navbar with:
+
+Logo text: Demo
+
+Menu: Card Activation, Withdrawal, Connect Wallet, Support
+
+Buttons: Login, Signup
+
+Hero Section:
+
+Heading: “Buy, Sell & Swap Cryptocurrency in Minutes”
+
+Highlight word “Cryptocurrency” in blue
+
+Email input + “Get Started” button
+
+Large 3D crypto coin illustration on right
+
+Trusted brands row:
+
+Coinbase, Kraken, Binance, Gemini, Exmo
+
+2. Trending in Market Section
+
+Horizontal coin filter icons
+
+Crypto ranking table with:
+
+Rank, Name, Price, 24h %, 7d %, Market Cap
+
+Green/red indicators
+
+Small sparkline charts (SVG)
+
+“Buy” pill button
+
+3. Trust & Security Section
+
+Cards:
+
+Secure Storage
+
+Protected by Insurance
+
+Right aligned text:
+
+“The Most Trusted Cryptocurrency Platform”
+
+4. Key Features Section
+
+Light blue background
+
+Left content:
+
+“Some Key Features of Demo”
+
+Stats:
+
+141,000+ Registered Users
+
+$280M+ Airdrops Given
+
+$38M+ Monthly Withdrawals
+
+Right: Large globe illustration
+
+5. Testimonial Section
+
+Quote card with image
+
+Quote text:
+
+“It is inevitable — crypto will be the future currency of Earth.”
+
+Author: Elon Musk
+
+Slider arrows
+
+6. How It Works Section
+
+3 step cards:
+
+Create an Account
+
+Link Your Bank Account
+
+Start Buying & Selling
+
+CTA button: Get Started
+
+7. Authentication Screens (UI Only)
+
+Country selection screen
+
+Create account form
+
+Verification code input
+
+Login screen
+
+Forgot password
+
+Reset password
+
+Success confirmation
+
+8. Mobile App Screens (UI Mock)
+
+Wallet dashboard:
+
+Total balance
+
+Asset list (BTC, ETH, BNB, USDT, SOL)
+
+Debit card activation page:
+
+Merchant Visa Card
+
+Classic Visa Card
+
+Prime Visa Card
+
+Withdraw limits and apply buttons
+
+Bottom navigation bar
+
+UI / Design Guidelines
+
+Color palette:
+
+Primary Blue: #1E88E5 / #2979FF
+
+Light backgrounds with soft gradients
+
+Rounded corners (12–20px)
+
+Card shadows (soft, modern)
+
+Button hover animations
+
+Smooth section spacing
+
+Deliverables
+
+Clean folder structure
+
+Reusable components
+
+Comments in code
+
+Ready to deploy
+
+Important:
+This is a frontend-only demo website with mock data. No backend or real crypto transactions required
